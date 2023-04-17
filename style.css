@@ -9,7 +9,9 @@ body {
 #realmain {
     position: absolute;
     border: 3px solid #eeeeee;
-    left: 17vw;
+    left: 50vw;
+    height: 50vh;
+    width: 50vw;
     background-color: rgba(0, 0, 0, 0.5);
 }
 .odd {
